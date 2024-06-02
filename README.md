@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Farayabaig
-- 👀 I’m interested in Machine Learning and full stack development...
-- 🌱 I’m currently doing BS in computer science...
-- 💞️ I’m looking to collaborate on project of web development, machine learning and data mining ...
+- 👀 I’m interested in Machine Learning and AI.
+- 🌱 I have done bachelors in Computer Science from FAST NUCES Islamabad
 - 📫 Reach me at farayabaig05@gmail.com 
 
 <!---
