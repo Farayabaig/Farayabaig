@@ -23,6 +23,7 @@
 | [**grpo-rag-citations-qwen3b**](https://github.com/Farayabaig/grpo-rag-citations-qwen3b) | GRPO with four custom rewards that teach a 3B model to cite its source: **99%** format compliance |
 | [**rag-prompt-tuning-DSPy**](https://github.com/Genie-Experiments/rag-prompt-tuning-DSPy) | Standard vs hand written vs DSPy optimised RAG prompts, scored for similarity and hallucination |
 | [**genie-mentor-agent**](https://github.com/Genie-Experiments/genie-mentor-agent) | Multi agent RAG onboarding platform (AutoGen, MCP). I built the planner and refiner, retrieval, evaluation and observability |
+| [**VOICE_ASSISTANT**](https://github.com/Farayabaig/VOICE_ASSISTANT) | Voice to voice support assistant: Whisper, GPT-4o with memory and gTTS, with empathetic replies and escalation to a human agent |
 | [**a2a_attack**](https://github.com/Farayabaig/a2a_attack) | Security POC of four attacks on an agent to agent customer service chain, with a hardened defence version |
 | [**Langchain_mcp_agentic_ai_lab**](https://github.com/Farayabaig/Langchain_mcp_agentic_ai_lab) | LangChain agent to agent communication over MCP, with a Postgres attack lab |
 
