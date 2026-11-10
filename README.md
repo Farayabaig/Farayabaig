@@ -44,4 +44,4 @@
 
 ---
 
-Writing: [Red teaming MCP based agents](https://farayabaig-dev-u87m.vercel.app/blog/red-teaming-mcp-based-agents)
+Writing: [My model named the right tool 87% of the time. It was usable 0% of the time.](https://farayabaig-dev-u87m.vercel.app/blog/what-fine-tuning-a-3b-model-for-tool-calling-taught-me) · [Red teaming MCP based agents](https://farayabaig-dev-u87m.vercel.app/blog/red-teaming-mcp-based-agents)
